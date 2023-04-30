@@ -1,4 +1,8 @@
-### Hi there 👋
+### ClipDonation
+
+We are living in the future
+
+**The Singularity Is Near**
 
 <!--
 **clipdonation/clipdonation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
